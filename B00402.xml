@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter written from Master C.S. neere Salisbury, to Master H.A. at London, concerning the proceeding at VVinchester; vvhere the late L. Cobham, L. Gray, and Sir Griffin Marckham, all attainted of hie trason, were ready to be executed on Friday the 9. of December 1603: at which time his Maiesties warrant all written with his owne hand, whereof the true copy is here annexed, was deliuered to Sir Beniamin Tichbourne high sheriffe of Hampshire, commanding him to suspend their execution till further order.</title>
+            <author>T. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00402</idno>
+            <idno type="STC">STC 17151A</idno>
+            <idno type="STC">ESTC S121181</idno>
+            <idno type="EEBO-CITATION">44920366</idno>
+            <idno type="OCLC">ocm 44920366</idno>
+            <idno type="VID">173811</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173811)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2099:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter written from Master C.S. neere Salisbury, to Master H.A. at London, concerning the proceeding at VVinchester; vvhere the late L. Cobham, L. Gray, and Sir Griffin Marckham, all attainted of hie trason, were ready to be executed on Friday the 9. of December 1603: at which time his Maiesties warrant all written with his owne hand, whereof the true copy is here annexed, was deliuered to Sir Beniamin Tichbourne high sheriffe of Hampshire, commanding him to suspend their execution till further order.</title>
+                  <author>T. M.</author>
+                  <author>James I, King of England, 1566-1625. True copie of his Maiesties warrant ... for stay of  the execution of the late L. Cobham, L. Gray, and Sir Griffin Marckham ...</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>by R.B.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signature on p. 9: T.M.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cobham, Henry Brooke, --  Lord, 1564-1619.</term>
+               <term>Markham, Griffin, --  Sir, 1564?-1644?</term>
+               <term>Grey of Wilton, Thomas Grey, --  Baron, d. 1614.</term>
+               <term>Brooke, George, 1568-1603.</term>
+               <term>Bye Plot, 1603.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173811:1"/>
+            <p>THE COPIE OF A LETTER WRITTEN from Maſter <hi>C. S.</hi> neere Salisbury, to Maſter <hi>H.A.</hi> at London, concerning the <hi>proceeding at VVincheſter; VVhere the late L. Cobham,</hi> L. <hi>Gray,</hi> and Sir <hi>Griffin Marckham,</hi> all Attainted of hie Treaſon, were ready to be executed on Friday the 9. of December 1603:</p>
+            <p>At which time his Maieſties Warrant, <hi>all written with his owne hand, whereof the</hi> true Copy is here annexed, was deli<g ref="char:EOLhyphen"/>uered to ſir <hi>Beniamin Tichbourne</hi> high Sheriffe of Hampſhire, commanding him to ſuſpend their execution till further order.</p>
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by R. B. ANNO DOM. 1603.</p>
+         </div>
+      </front>
+      <body>
+         <div type="copy_of_letter">
+            <pb facs="tcp:173811:2"/>
+            <pb n="1" facs="tcp:173811:2"/>
+            <head>THE COPIE OF A LETTER WRITTEN from Maſter <hi>C.S.</hi> neere Salisbury, to Maſter <hi>H. A.</hi> at London, concer<g ref="char:EOLhyphen"/>ning the proceeding at Wincheſter, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">S</seg>IR, I haue recei<g ref="char:EOLhyphen"/>ued a Letter from you by which I per<g ref="char:EOLhyphen"/>ceiue, howe much you deſire to be par<g ref="char:EOLhyphen"/>ticularly enfourmed of the cauſe and ma<g ref="char:EOLhyphen"/>ner of the ſtay of the late Lord <hi>Cobhams.</hi> Lord <hi>Grayes,</hi> and Sir <hi>Griffin Marckhams</hi> Execution, appoin<g ref="char:EOLhyphen"/>ted at Wincheſter: wherein, although there are many better able to diſcourſe at large of ſuch an Action then my ſelfe; yet I conceiue (when you haue peruſed this plaine and true Relation, of that
+<pb facs="tcp:173811:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:173811:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:173811:4"/>which all men there behelde that day, and many more ſince haue heard from perſons of beſt quali<g ref="char:EOLhyphen"/>tie and knowledge) you will thanke me more, for ſuffering the trueth to ſhew it ſelfe vnclothed, then if I had laboured to haue deliuered you a Tale well painted with curious words and fine phraſes.</p>
+            <p>You muſt therfore vnderſtand, That as ſoone as the Arraignme<g ref="char:cmbAbbrStroke">̄</g>ts were paſſed at <hi>Wincheſter,</hi> his Ma<g ref="char:EOLhyphen"/>ieſties priuie Counſel (to the number of fourteene or fifteene, of which companie all of them had ei<g ref="char:EOLhyphen"/>ther bene tryers of the Noble men as their Peeres, or ſitten as high Commiſſioners vpon the Gentle<g ref="char:EOLhyphen"/>men) were called before his Maieſtie (in his priuie Chamber) at <hi>Wilton,</hi> where hee commanded them to deliuer (without reſpect to any perſon) the true Narration onely, of the order in the Triall of theſe perſons that had beene condemned by the Law, of the manner of their behauiour at Barre, and of the nature <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> degree of their offences, as had appeared in euery one of them by their ſeuerall anſweres.</p>
+            <p>All which being cleerely and iuſtly reported by them, (each ſpeaking in the hearing of the reſt) his Maieſtie (for his part) vſed himſelfe ſo grauely and ſo reſeruedly in all his ſpeeches, as well to themſelues at that time, as alſo to all other perſons after in priuate or publique, as neither any of his priuie Counſell, Nobilitie, or any that attended neereſt to his ſacred Perſon, durſt preſume to me<g ref="char:EOLhyphen"/>diate for any, or ſo much as to enquire what ſhould bee the concluſion particularly, of this procee<g ref="char:EOLhyphen"/>ding.</p>
+            <pb n="3" facs="tcp:173811:4"/>
+            <p>In the meane time, while the Court was full of varietie of diſcourſe, ſome ſpeaking out of proba<g ref="char:EOLhyphen"/>bilitie, others arguing out of deſire, what was like to bee the fortune of all, or of any of theſe offen<g ref="char:EOLhyphen"/>dours; His Maieſtie hauing concluded onely in his owne ſecret heart (which is the true oracle of grace and knowledge) in what manner to proceed, (and that without asking counſell of any earthly perſon) It pleaſed him to reſolue (betweene God and him<g ref="char:EOLhyphen"/>ſelfe) that their Execution ſhould be ſtayed, euen at the inſtant when the Axe ſhould be layde to the Trees rootes. For the ſecret and orderly carriage whereof, his Maieſtie was carefull to preuent all cauſe or colour of ſuſpicion, of that Iudicious, Royall, and vnexpected courſe which followed. And therefore, after the two Prieſts were execu<g ref="char:EOLhyphen"/>ted on Tueſday the 29. of Nouember, and Maſter <hi>George Brooke</hi> on Munday following, his Maieſtie on the ſame day, being the fifth of December, ſig<g ref="char:EOLhyphen"/>ned three Warants, for the Execution of the late Lord <hi>Cobham,</hi> L. <hi>Gray,</hi> and Sir <hi>Gryffin Marckham</hi> Knight, with particular direction to the Sheriffe, to performe it on Friday after before ten a clocke in the morning.</p>
+            <p>All theſe directions being now become noto<g ref="char:EOLhyphen"/>rious, both by the Writs of execution (which paſ<g ref="char:EOLhyphen"/>ſed vnder the great Seale) and by the making rea<g ref="char:EOLhyphen"/>die the Scaffolds at <hi>Winchester,</hi> His Maieſtie very ſecretly (as now appeareth by the ſequele) drewe himſelfe into his Cabinet, on Wedneſday before
+<pb n="4" facs="tcp:173811:5"/>the day of Execution, and there priuately framed a Warrant written all with his owne hand, to the Sheriffe, by vertue whereof, hee countermaunded all the former directions, alledging the reaſons therein mentioned: Of which ſeeing no mans Pen can ſo well expreſſe, as his owne, I ſend you the Copie <hi>verbatim,</hi> as I tooke it out of the Originall, which many read in my Couſen Sir <hi>Beniamin Tichbournes</hi> hand.</p>
+            <p>And now to come to the ordering of this buſi<g ref="char:EOLhyphen"/>neſſe; among many other circumſtances, It is very remarkable, with what diſcretion and foreſight, that perſon was elected, which muſt bee vſed in carriage of the Warrant. Firſt his Maieſtie reſol<g ref="char:EOLhyphen"/>ued, it ſhould be a Scottiſhman, being thereby like to be freeſt from particular dependancie vpon any Nobleman, Counſellours, or others, their friends or Allyes. Next hee reſolued, to ſend a man of no extraordinarie ranke, becauſe the ſtanders by ſhould not obſerue any alteration, nor the delin<g ref="char:EOLhyphen"/>quents themſelues ſhould take any apprehenſion of ſuch a mans being there at that time: This being his Maieſties ſpeciall deſire, that euery one of them (being ſeuerally brought vpon the Scaffold) might quietly breath foorth their laſt wordes, and true confeſſion of his ſecreteſt conſcience. And ſo (to be ſhort) his Maieſtie made choiſe of M. <hi>Iohn Gibb,</hi> a Scottiſhman (as aforeſaid) a man that had neuer dealt with any Counſellor, or other, for ſuite or bu<g ref="char:EOLhyphen"/>ſineſſe, but one that had (within ſhort while after
+<pb n="5" facs="tcp:173811:5"/>the Kings firſt entrie) beene ſent backe into Scot<g ref="char:EOLhyphen"/>land, from whence he was but now freſhly arriued at <hi>Wilton</hi> ſome fewe dayes before.</p>
+            <p>This party being by the King approoued for an ancient, truſtie, and ſecret ſeruant (as a Groome of his Maieſties bed-chamber) receiuing the war<g ref="char:EOLhyphen"/>rant ſecretly on Thurſday from the Kings owne hand, &amp; telling his fellowes (who would otherwiſe haue miſſed him) that he muſt lie that night at <hi>Sa<g ref="char:EOLhyphen"/>lisburie</hi> vpon ſome priuate buſineſſe of his owne, he rode directly to <hi>Wincheſter,</hi> and there, keeping him<g ref="char:EOLhyphen"/>ſelfe priuate all night, roſe earely in the morning on Friday, and went obſcurely to the Caſtle greene, where the people flocking in all the morning, as the time drewe neere, hee put himſelfe with the throng, cloſe by the Scaffold, and there leaned till the Sheriffe brought vp ſir <hi>Griffin Markham</hi> to the place, who was the man appointed firſt to die.</p>
+            <p>There the ſayd Sir <hi>Griffin Markham,</hi> hauing ended his praier, and made himſelfe ready to kneele downe, M. <hi>Iohn Gibb</hi> finding it fit time, while the Axe was preparing, to giue ſome ſecret notice of his charge, called to my coſin <hi>Tichborne</hi> the She<g ref="char:EOLhyphen"/>riffe, to ſpeake with him, and then deliuered him (priuately) his Maieſties warrant, with further di<g ref="char:EOLhyphen"/>rections verbally, how he ſhould vſe it.</p>
+            <p>Hereupon the Sheriffe perceiuing fully his Maieſties intention, ſo warily and diſcreetly mar<g ref="char:EOLhyphen"/>ſhalled the matter, as hee onely called Sir <hi>Griffin Markham</hi> vnto him on the Scaffold, and told him,
+<pb n="6" facs="tcp:173811:6"/>that he muſt withdraw himſelfe into the Hall, to be confronted (before his death) before thoſe two Lords, that were to follow him, about ſome points that did concerne his Maieſties ſeruice: and ſo ca<g ref="char:EOLhyphen"/>rying <hi>Markham</hi> into the Hall, he left him there, and went vp haſtily for the Lord <hi>Gray</hi> to the Caſtle, who being likewiſe brought vp to the Scaffold, and ſuffered to powre out his prayers to God (at great length) and to make his laſt confeſſion, as he would anſwere it vpon his ſoule, when he was readie to kneele downe, to receiue the ſtroke of death, Ma<g ref="char:EOLhyphen"/>ſter Sheriffe cauſed him to ſtay, and told him that he muſt goe downe for a while into the Hall, where finding Sir <hi>Griffin Markham,</hi> he willed him to tarry there till he returned.</p>
+            <p>Laſt of all, he went for the Lord <hi>Cobham,</hi> who ha<g ref="char:EOLhyphen"/>uing alſo ended his deuotion to God, and making himſelfe ready to receiue the ſame blow, the She<g ref="char:EOLhyphen"/>riffe finding the time come to publiſh the Kings mercie to the world, and to reueaſe his myſterie, he cauſed both the Lord <hi>Gray,</hi> and Sir <hi>Griffin Markham,</hi> to be brought backe to the Scaffold, and there, be<g ref="char:EOLhyphen"/>fore them all three that were condemned, and in the hearing of all the company, notified his Ma<g ref="char:EOLhyphen"/>ieſties warrant, by which he was authoriſed to ſtay the execution. Which ſtrange and vndeſerued Grace and mercie proceeding from a Prince, ſo deeply wounded without cauſe, or colour of cauſe giuen by himſelfe towards them in any thing, but meerely contrary (to both the Lords eſpecially) bred in the hearts as well of the offenders, as of the
+<pb n="7" facs="tcp:173811:6" rendition="simple:additions"/>ſtanders by, ſuch ſundry paſſions, according to the diuers tempers of their minds, as to thoſe that muſt receiue thoſe things by report, which others did behold with their eyes, it may rather ſeeme to be a relation of a well acted Comedie, then that it was euer poſſible for any other man, to contriue a mat<g ref="char:EOLhyphen"/>ter (of this nature and conſequence) to ſerue all purpoſes ſo aptly, as this was ordered by his Maie<g ref="char:EOLhyphen"/>ſties owne and onely directions.</p>
+            <p>The Lord <hi>Cobham</hi> (holding his hand to heauen) applauded this incomparable mercie of ſo graci<g ref="char:EOLhyphen"/>ous a Soueraigne, aggrauating his owne fault, by comparing it with the Princes clemencie, wiſhing confuſion to all men aliue, that ſhould euer thinke a thought againſt ſuch a Prince, as neither gaue cauſe of offence, nor tooke reuenge of ingratitude.</p>
+            <p>The Lord <hi>Gray,</hi> finding in what meaſure this rare King had rewarded good for euill, and forborne to make him an example of diſcouragement, and ter<g ref="char:EOLhyphen"/>rour to all men that hereafter might attempt to breake the bonds of loyalty, vpon the paſſions of any ambition, beganne to ſobbe and weepe for a great while, with moſt deepe contrition, proteſting now, that ſuch was his zeale and deſire to redeeme his fault, by any meanes of ſatisfaction, as he could eaſily ſacrifice his life, to preuent the loſſe of one finger of that royall hand, that had dealt ſo merci<g ref="char:EOLhyphen"/>fully with him, when he leaſt looked for it.</p>
+            <p>Sir <hi>Griffin Marckham</hi> (ſtanding like a man aſto<g ref="char:EOLhyphen"/>niſhed) did nothing but admire and pray. The people that were preſent, witneſſed by infinite ap<g ref="char:EOLhyphen"/>plauſe
+<pb n="8" facs="tcp:173811:7"/>and ſhouting the ioy and comfort, which they tooke in theſe wonderfull effects of grace and mercie, from a Prince, whome God had inſpired with ſo many Royall gifts, for their conſeruation, and would conſerue for his owne glorie.</p>
+            <p>The crie being carried out of the Caſtle Gates into the Towne, was not onely ſounded with ac<g ref="char:EOLhyphen"/>clamation of all ſexes, qualities, and affections, but the true report diuulged ſince in all partes, hath bred in the woorſt diſpoſed mindes, ſuch remorſe of iniquitie, in the beſt ſuch incouragement to loyaltie, and in thoſe that are indifferent, ſuch feare to offend, and generally ſuch affection to his Ma<g ref="char:EOLhyphen"/>ieſties Perſon: as perſwades the world, that Sathan himſelfe can neuer ſo farre preuaile with any, as to make them lift vp their hearts or hands againſt a Prince, from whom they receiue ſo true effects of Iuſtice, and goodneſſe.</p>
+            <p>To conclude therefore, I haue now done my beſt, to ſatisfie your deſire, though I feele (to my griefe) how ſhort I come to my owne wiſh, be<g ref="char:EOLhyphen"/>cauſe I would haue expreſſed to the life (if it had beene poſſible) both the matter and the forme of this proceeding; of both which, the wiſeſt men, that haue ſeene and vnderſtoode all particular cir<g ref="char:EOLhyphen"/>cumſtances, are at the ende of their wits, to giue an abſolute cenſure, whether of them both deſerue greater recommendation, (this being moſt aſſu<g ref="char:EOLhyphen"/>red) that there is no Record extant, wherein ſo great wiſedome and vnderſtanding, ſo ſolid iudge<g ref="char:EOLhyphen"/>ment, ſo perfect a reſolution, to giue way to no re<g ref="char:EOLhyphen"/>queſt,
+<pb n="9" facs="tcp:173811:7"/>or mediation; ſo inſcrutable a heart, ſo Roy<g ref="char:EOLhyphen"/>all and equall a tempered mercie, after ſo cleare and publike Iuſtice, haue euer concurred ſo de<g ref="char:EOLhyphen"/>monſtratiuely as in this late Action, wherein this bleſſed King hath not proceeded after the manner of men and of Kings, <hi>Sed caelestis Iudicis aeterni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Re<g ref="char:EOLhyphen"/>gis more,</hi> whereof he ſhall be moſt aſſured to reape theſe laſting fruites, of being beloued and fea<g ref="char:EOLhyphen"/>red of all men, obeyed with comfort, and ſerued with continuall ioy and admiration. And ſo for<g ref="char:EOLhyphen"/>bearing to hold you any longer at this time, I end: From my houſe neere <hi>Salisburie,</hi> the 15. of De<g ref="char:EOLhyphen"/>cember. 1603.</p>
+            <closer>
+               <signed>Your Louing Couſin and friend. T. M.</signed>
+            </closer>
+         </div>
+         <div type="copy_of_warrant">
+            <pb facs="tcp:173811:8"/>
+            <pb n="10" facs="tcp:173811:8"/>
+            <head>A TRVE COPIE OF HIS MAIESTIES Warrant written with his owne hand, and directed to the high <hi>She<g ref="char:EOLhyphen"/>riffe of Hampſhire for ſtay of the execu<g ref="char:EOLhyphen"/>tion</hi> of the late L. <hi>Cobham,</hi> L. <hi>Gray,</hi> and ſir <hi>Griffin Marckham</hi> at Wincheſter the 9. of De<g ref="char:EOLhyphen"/>cember 1603.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthouch it be true, that all vell go<g ref="char:EOLhyphen"/>uernid and flooriſh<g ref="char:EOLhyphen"/>ing Kingdomes and common vealthis, aire establiſhid by Iuſtice, and that theſe tuo Noblemen by birthe, that aire nou vpon the point of Execution, aire for thair treaſonable practiſes condemnid by the Lawe, and adiudgit voorthy of the execution thaireof, to the exemple
+<pb n="11" facs="tcp:173811:9"/>and terror of other is; The one of thaim hauing filthily practiſed the ouerthrow of the quhole king<g ref="char:EOLhyphen"/>dome, and the other for the ſurpriſe of our owin Perſonne; Yet in regaird that this is the first yeere of our Raigne, in this Kingdome, and that neuer King was ſo farre obleiſhid to his people, as ve haue bene to this, by our entrie heere vith ſo hair<g ref="char:EOLhyphen"/>tie and generall an applauſe of all ſorts; Among quhom all the kinne, friendis, and allies of the ſaidis condemnid perſonnis, vaire as forduart, and duetifull as any other our good Subiectis, as alſo that at the very time of thair Arrainement none did more freely &amp; reddily giue thair aſſent to thair conuiction, and to deliuer thaim into the handis of Iustice, then ſo many of thair neerest kinſ<g ref="char:EOLhyphen"/>men and Allies (as being Peeris) <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aiere vpon thair Iurie; As likeuaiſe in regaird that Iustice hath in ſome ſort gottin courſe alreadie, by the execution of the tuo Priestis, and <hi>George Brooke,</hi> that vaire the principall plotteris and in<g ref="char:EOLhyphen"/>tiſairs of all the reſt, to the embracing of the ſaidis treaſonabill Machinations; <hi>Vee</hi> thairfore (being reſoluid to mixe Clemencie vith Iustice) aire contented, and by theſe Preſentis command you, our preſent Sheriffe of Hampſhire, to ſuperſeide the Execution of the ſaidis tuo Noblemen, and to
+<pb n="12" facs="tcp:173811:9"/>take thaim backe to thair priſon againe, quhile our further pleaſure be knowin. And ſince ve vill not haue our Lawis to haue respect to perſonis, in ſpairing the great, and ſtrikking the meaner ſort; It is our pleaſure, that the like courſe be alſo taken vith <hi>Marckham,</hi> being ſorry from our hairt, that ſuch is, not onely the heynous nature of the ſaidis co<g ref="char:cmbAbbrStroke">̄</g>demnid perſonnis crime, but euen the cor<g ref="char:EOLhyphen"/>ruption is ſo great of thair naturall dispoſition, as the care vee haue for the ſafety and quiet of our State, and good Subiectis, vill not permit vs to vſe that clemencie to vardis thaim, quhich in our owin naturall inclination, vee micht very eaſily be perſuadit vnto.</p>
+            <pb facs="tcp:173811:10"/>
+            <pb facs="tcp:173811:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
